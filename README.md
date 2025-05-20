@@ -25,9 +25,7 @@
 
 ## 📈 GitHub Stats
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drx-s&layout=compact&theme=default" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drx-s&layout=compact&theme=default" alt="Top Languages" />
 
 ---
   
