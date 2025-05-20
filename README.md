@@ -10,13 +10,13 @@
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white )](https://en.wikipedia.org/wiki/Python_ (programming_language))
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white )](https://en.wikipedia.org/wiki/C_ (programming_language))
 [![JavaScript](https://img.shields.io/badge/JavaScript-f4e225?style=for-the-badge&logo=javascript&logoColor=black )](https://simple.wikipedia.org/wiki/JavaScript )
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )](https://en.wikipedia.org/wiki/HTML )
+[![SQL](https://img.shields.io/badge/SQL-008CBA?style=for-the-badge&logo=mysql&logoColor=white )](https://en.wikipedia.org/wiki/SQL )
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white )](https://en.wikipedia.org/wiki/Git )
-
 </p>
 
 ---
