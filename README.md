@@ -22,10 +22,12 @@
 ---
 
 
-
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drx-s&layout=compact&theme=default" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drx-s&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="48%" />
+
+</p>
 
 ---
   
